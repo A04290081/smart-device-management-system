@@ -1,4 +1,5 @@
-smart device management system
+##smart device management system
+
 The primary goal of this mini-project is to develop a Python application that simulates the 
 management of different smart devices. The system includes a base class 
 specialized child classes for 
